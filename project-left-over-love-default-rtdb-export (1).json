@@ -1,0 +1,128 @@
+{
+  "M001": {
+    "alamatPengambilan": "Jalan Soekarno Hatta Nomor 97",
+    "deskripsi": "Nasi goreng dengan sayur dan telur mata sapi",
+    "harga": "Rp 10000",
+    "idMakanan": "M001",
+    "namaMakanan": "Nasi goreng spesial",
+    "rating": "Bagus",
+    "waktuPengambilan": "19.00 - 20.00"
+  },
+  "M002": {
+    "alamatPengambilan": "Jalan Athiya Jannati nomor 50",
+    "deskripsi": "Mie Goreng dengan sapi",
+    "harga": "Rp 15000",
+    "idMakanan": "M002",
+    "namaMakanan": "Mie Goreng",
+    "rating": "jelek",
+    "waktuPengambilan": "06.00 - 08.00"
+  },
+  "RES01": {
+    "alamat": "Jalan Soekarno Hatta Nomor 97",
+    "deskripsi": "Warung kumpulan nasi goreng dan mie goreng",
+    "idRestoran": "RES01",
+    "menu": {
+      "M001": {
+        "deskripsi": "Nasi goreng dengan sayur dan telur mata sapi",
+        "harga": 10000,
+        "idMakanan": "M001",
+        "namaMakanan": "Nasi goreng spesial",
+        "rating": "Bagus",
+        "stock": 7,
+        "waktuPengambilan": "19.00 - 20.00"
+      },
+      "M002": {
+        "deskripsi": "Mie goreng dengan daging sapi",
+        "harga": 15000,
+        "idMakanan": "M002",
+        "namaMakanan": "Mie Goreng Spesial",
+        "rating": "Jelek",
+        "stock": 8,
+        "waktuPengambilan": "06.00 - 08.00"
+      },
+      "M003": {
+        "deskripsi": "gula sedikit",
+        "harga": 7000,
+        "idMakanan": "M003",
+        "namaMakanan": "Es Teh",
+        "rating": "wapik pol",
+        "stock": 4,
+        "waktuPengambilan": "03.00 - 04.00"
+      }
+    },
+    "namaRestoran": "Restoran B88",
+    "rating": "4.8"
+  },
+  "RES02": {
+    "alamat": "Jalan Najwa Shihab nomor 44",
+    "deskripsi": "Warung kumpulan makanan ala jawa",
+    "idRestoran": "RES02",
+    "menu": {
+      "M001": {
+        "deskripsi": "Soto ayam dengan koya",
+        "harga": 15000,
+        "idMakanan": "M001",
+        "namaMakanan": "Soto Ayam",
+        "rating": "Sedang",
+        "stock": 10,
+        "waktuPengambilan": "17.00 - 17.30"
+      },
+      "M002": {
+        "deskripsi": "Nasi pecel dengan bakwan",
+        "harga": 8000,
+        "idMakanan": "M002",
+        "namaMakanan": "Nasi Pecel",
+        "rating": "Biasa",
+        "stock": 9,
+        "waktuPengambilan": "09.00 - 10.00"
+      },
+      "M003": {
+        "deskripsi": "gula sedikit",
+        "harga": 6000,
+        "idMakanan": "M003",
+        "namaMakanan": "Es Jeruk",
+        "rating": "wapik pol",
+        "stock": 5,
+        "waktuPengambilan": "12.00 - 14.00"
+      }
+    },
+    "namaRestoran": "Resto Aji",
+    "rating": "4.6"
+  },
+  "RES03": {
+    "alamat": "Jalan Brawijaya nomor 09",
+    "deskripsi": "Warung indomie",
+    "idRestoran": "RES03",
+    "menu": {
+      "M001": {
+        "deskripsi": "Indomie pokoke enak",
+        "harga": 1000,
+        "idMakanan": "M001",
+        "namaMakanan": "Indomie Rebus",
+        "rating": "Super duper apik",
+        "stock": 8,
+        "waktuPengambilan": "14.00 - 15.00"
+      },
+      "M002": {
+        "deskripsi": "enakkk",
+        "harga": 19000,
+        "idMakanan": "M002",
+        "namaMakanan": "Indomie Goreng",
+        "rating": "Biasa",
+        "stock": 6,
+        "waktuPengambilan": "11.00 - 11.59"
+      },
+      "M003": {
+        "deskripsi": "tanpa gula",
+        "harga": 10000,
+        "idMakanan": "M003",
+        "namaMakanan": "Kopi Hitam",
+        "rating": "wapik pol",
+        "stock": 10,
+        "waktuPengambilan": "11.00 - 13.00"
+      }
+    },
+    "namaRestoran": "Warmindo",
+    "rating": "1.0"
+  }
+}
