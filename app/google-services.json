@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371137348218",
+    "project_id": "project-left-over-love",
+    "storage_bucket": "project-left-over-love.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371137348218:android:d44cc64cf93c6175dcb1c3",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.leftoverlove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyQouyVXAZdddgYEVAb2bni-bAHUtPpOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371137348218:android:7a76b012ee43faa2dcb1c3",
+        "android_client_info": {
+          "package_name": "com.example.leftoverlove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyQouyVXAZdddgYEVAb2bni-bAHUtPpOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
